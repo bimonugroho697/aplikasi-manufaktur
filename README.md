@@ -124,5 +124,7 @@ Project ini dibuat untuk:
 ---
 
 # Author
-Nama: Bimo Nugroho
+Nama: M.Bimo Tri Nugroho
+NIM : 231011402859
+KELAS : 06TPLE013
 Project: Aplikasi Manufaktur
